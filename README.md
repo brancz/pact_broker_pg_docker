@@ -1,7 +1,8 @@
 Pact Broker with Postgres and Docker
 ====================================
 
-Easily setup your own Pact Broker instance with docker-compose.
+Easily setup your own [Pact Broker](https://github.com/bethesque/pact_broker)
+instance with docker-compose.
 
 Simply download the docker-compose.yml to your machine and run
 
