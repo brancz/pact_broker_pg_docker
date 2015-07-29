@@ -1,5 +1,6 @@
 files:
-  image: ubuntu
+  image: postgres:9.4
+  command: '/bin/true'
 db:
   image: postgres:9.4
   volumes_from:
