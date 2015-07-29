@@ -12,7 +12,7 @@ db:
     - POSTGRES_USER=pactbroker
     - POSTGRES_PASSWORD=supersave
 web:
-  image: flowerpot/pact_broker_pg_docker
+  image: flowerpot/pact-broker-pg-docker
   ports:
     - "5000:5000"
   links:
